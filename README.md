@@ -1,5 +1,5 @@
-# Content Tools Nginx Docker Image - PHP & Nginx
-If you want to build a Content Tools application using PHP, this is a base docker image you can use.
+# Nginx Docker Image - PHP & Nginx
+If you want to build an application using PHP, this is a base docker image you can use.
 
 ### Build
 To build this image yourself from the code follow these command
